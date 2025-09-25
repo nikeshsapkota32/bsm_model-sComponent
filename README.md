@@ -69,8 +69,6 @@ Nikesh Sapkota
 
 GitHub: https://github.com/nikeshsapkota32
 
-LinkedIn: [Link to your LinkedIn profile]
-(Consider adding other links like your personal website or portfolio)
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
